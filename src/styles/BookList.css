@@ -1,0 +1,13 @@
+.booklist{
+    display: flex;
+    flex-direction: row;
+    /* justify-content:space-between; */
+    flex-wrap:wrap;
+    height: 60vh;
+}
+@media only screen and (max-width: 871px) {
+    .booklist {
+      justify-content: center;
+      align-items: center;
+    }
+  }
