@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/bookseller-app/static/css/main.eaa53328.css",
+    "main.js": "/bookseller-app/static/js/main.d9c16253.js",
+    "index.html": "/bookseller-app/index.html",
+    "main.eaa53328.css.map": "/bookseller-app/static/css/main.eaa53328.css.map",
+    "main.d9c16253.js.map": "/bookseller-app/static/js/main.d9c16253.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eaa53328.css",
+    "static/js/main.d9c16253.js"
+  ]
+}
